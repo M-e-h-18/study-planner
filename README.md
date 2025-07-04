@@ -10,7 +10,6 @@ study-planner/
 │
 ├── study_planner/ # Backend (Flask API)
 │ └── app.py # Main Flask application
-│ └── api/ # Planning logic
 │ └── requirements.txt # Python dependencies
 │
 ├── study_planner_frontend/ # Frontend (React.js)
