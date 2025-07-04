@@ -14,3 +14,4 @@ study_planner/instance/
 .vscode/
 .idea/
 *.swp
+study-planner-frontend/.env

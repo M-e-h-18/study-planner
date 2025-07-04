@@ -3,7 +3,8 @@ import ReactDOM from "react-dom/client";
 import App from "./App";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 
-const CLIENT_ID = "325428313985-hrelm33s3f4tfop3alp1gd4bb8qkjipj.apps.googleusercontent.com";
+// Access environment variable
+const CLIENT_ID = process.env.REACT_APP_GOOGLE_CLIENT_ID;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
