@@ -5,7 +5,7 @@ An intelligent, personalized study planner that helps students efficiently manag
 ---
 
 ##  Project Structure
-
+```bash
 study-planner/
 │
 ├── study_planner/ # Backend (Flask API)
@@ -19,7 +19,7 @@ study-planner/
 │
 └── README.md # Project overview (this file)
 
-
+```
 ---
 
 ##  Features
