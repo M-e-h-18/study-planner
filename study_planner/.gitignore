@@ -1,0 +1,21 @@
+# Node.js - React frontend
+study_planner_frontend/node_modules/
+study_planner_frontend/build/
+
+# Python - Flask backend
+study_planner/__pycache__/
+study_planner/env/
+study_planner/.env
+study_planner/instance/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,16 @@
+# Ignore node_modules (React)
+study_planner_frontend/node_modules/
+study_planner_frontend/build/
+
+# Ignore Python environment
+study_planner/env/
+study_planner/__pycache__/
+study_planner/.env
+study_planner/instance/
+
+# General
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.swp
